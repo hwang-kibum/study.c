@@ -3,9 +3,7 @@
 int main(void)
 {
     int n;
-
-    scanf("%d", &n);
+    scanf("%x", &n);
     printf("%o", n);
-
     return 0;
 }

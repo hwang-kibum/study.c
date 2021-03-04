@@ -5,7 +5,7 @@ int main(void)
     int n;
 
     scanf("%d", &n);
-    printf("%o", n);
-
+    printf("%c", n);
+    
     return 0;
 }
